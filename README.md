@@ -1,4 +1,4 @@
-# DynexSDK
+# Dynex案例合集 & SDK
 DynexSDK（Dynex软件开发工具包）
 Dynex是基于DynexSolve芯片算法的世界上第一个神经形态超级计算区块链，采用了“有用工作证明”（PoUW）方法来解决现实世界的问题。Dynex SDK 用于与Dynex平台进行交互和计算。所有示例都需要使用Python的DynexSDK以及有效的API密钥。我们的存储库会持续更新，请定期查看以获取更新。
 
