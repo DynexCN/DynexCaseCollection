@@ -1,0 +1,9 @@
+2023-11-05 02:50:37,334:INFO:DynexQRBM PyTorch Layer | batch data appended:  1
+2023-11-05 02:50:38,505:INFO:DynexQRBM PyTorch Layer | batch data appended:  2
+2023-11-05 02:50:40,038:INFO:DynexQRBM PyTorch Layer | batch data appended:  3
+2023-11-05 02:50:41,161:INFO:DynexQRBM PyTorch Layer | batch data appended:  4
+2023-11-05 02:50:42,358:INFO:DynexQRBM PyTorch Layer | batch data appended:  5
+2023-11-05 02:50:43,872:INFO:DynexQRBM PyTorch Layer | batch data appended:  6
+2023-11-05 03:00:50,617:INFO:Dynex Platform: sampled response: energy = -6.452671596425467
+2023-11-05 03:07:22,860:INFO:DynexQRBM PyTorch Layer | SME:  0.008960687608173841
+2023-11-05 03:07:22,888:INFO:DynexQRBM PyTorch Layer | ACCURACY: 99.10393123918261%
