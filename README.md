@@ -10,7 +10,7 @@ Dynex是基于DynexSolve芯片算法的世界上第一个神经形态超级计�
 pip install dynex
 ```
 
-然后按照“安装Dynex SDK” [安装Dynex SDK](https://github.com/dynexcoin/DynexSDK/wiki/Installing-the-Dynex-SDK)中的说明配置SDK. 建议首先下载Dynex SDK Hello World示例 [Dynex SDK Hello World Example](https://github.com/dynexcoin/DynexSDK/blob/main/Dynex_hello_world.ipynb) 以了解如何使用Dynex神经形态平台的基本步骤。
+然后按照[安装Dynex SDK](https://github.com/dynexcoin/DynexSDK/wiki/Installing-the-Dynex-SDK)中的说明配置SDK. 建议首先下载Dynex SDK Hello World示例 [Dynex SDK Hello World Example](https://github.com/dynexcoin/DynexSDK/blob/main/Dynex_hello_world.ipynb) 以了解如何使用Dynex神经形态平台的基本步骤。
 
 Dynex SDK文档:
 - [Dynex SDK Wiki](https://github.com/dynexcoin/DynexSDK/wiki)
