@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9004dab4-9607-4e7c-8090-1e012c7db81d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Dynex Scikit-Learn Plugin.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynex Scikit-Learn Plugin.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynex-Full-QRBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynex-Full-QRBM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynex_Q_Score.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynex_Q_Score.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynex_hello_world.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynex_hello_world.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_SVM_pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Example_SVM_pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HybridQRBM/samplers.py" beforeDir="false" afterPath="$PROJECT_DIR$/HybridQRBM/samplers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium_Image_Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Medium_Image_Classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_MIS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_MIS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_QUBO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_QUBO.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_SAT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_SAT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_anti_crossing_clique.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_anti_crossing_clique.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_bqm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_bqm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_bqm_k4_complete_graph.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_bqm_k4_complete_graph.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_logic_gates.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_logic_gates.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginners_guide_example_random_nae3sat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beginners_guide_example_random_nae3sat.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynex.ini" beforeDir="false" afterPath="$PROJECT_DIR$/dynex.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_collaborative_filtering_CFQIRBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_collaborative_filtering_CFQIRBM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_dynex_scikit-learn_plugin.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_dynex_scikit-learn_plugin.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_feature_selection_titanic_survivals.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_feature_selection_titanic_survivals.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_integer_factorisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_integer_factorisation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_neuromorphic_torch_layers (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_neuromorphic_torch_layers (1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_placement_of_charging_stations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_placement_of_charging_stations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_quantum_boltzmann_machine_QBM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_quantum_boltzmann_machine_QBM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_rna_folding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_rna_folding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_support_vector_machine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example_support_vector_machine.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XheAecV7ohRDOs7IsGPeY1A2ik" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "P:/pythonProject/DynexSDK",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DynexSDK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9004dab4-9607-4e7c-8090-1e012c7db81d" name="Changes" comment="" />
+      <created>1699085596630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699085596630</updated>
+      <workItem from="1699085597990" duration="891000" />
+      <workItem from="1699094877271" duration="24732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
