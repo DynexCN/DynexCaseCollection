@@ -45,13 +45,13 @@ Dynex SDK 专业社区:
 
 - [示例：烟草花叶病毒RNA折叠](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_rna_folding.ipynb) | 科学背景：Fox DM，MacDermaid CM，Schreij AMA，Zwierzyna M，Walker RC。使用量子计算机进行RNA折叠，PLoS Comput Biol。2022年4月11日；18(4)：e1010032。doi：10.1371/journal.pcbi.1010032。PMID：35404931；PMCID：PMC9022793
 
-- [示例：量子单图像超分辨率](https://github.com/dynexcoin/DynexSDK/tree/main/Quantum-SISR) |  科学背景：Choong HY，Kumar S，Van Gool L。单图像超分辨的量子退火。在计算机视觉和模式识别2023 IEEE / CVF会议文集中的论文（第1150-1159页）。
+- [示例：量子单图像超分辨率](https://github.com/DynexCN/DynexCaseCollection/tree/main/Quantum-SISR) |  科学背景：Choong HY，Kumar S，Van Gool L。单图像超分辨的量子退火。在计算机视觉和模式识别2023 IEEE / CVF会议文集中的论文（第1150-1159页）。
 
 - [示例：充电站的布置](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_placement_of_charging_stations.ipynb) | 科学背景：Pagany，Raphaela＆Marquardt，Anna＆Zink，Roland。 （2019）。电动充电需求位置模型-一种基于用户和目的地的电动汽车充电站的布置方法。可持续性。11。2301。10.3390/su11082301
 
 - [示例：使用Dynex scikit-learn插件进行乳腺癌预测](https://github.com/DynexCN/DynexCaseCollection/blob/main/Dynex%20Scikit-Learn%20Plugin.ipynb) |  科学背景：Bhatia，H.S.，Phillipson，F.（2021）。在D-Wave量子退火器上实现支持向量机的性能分析。在：Paszynski，M.，Kranzlmüller，D.，Krzhizhanovskaya，V.V.，Dongarra，J.J.，Sloot，P.M.A.（eds）计算科学-ICCS 2021。ICCS 2021。计算机科学讲义（），第12747卷。斯普林格，香槟
   
-- [示例：量子整数分解 ](https://github.com/dynexcoin/DynexSDK/blob/main/example_integer_factorisation.ipynb) | 科学背景：江，S.，Britt，K.A.，McCaskey，A.J.等。 量子退火用于素数分解。科学报告8，17667（2018）
+- [示例：量子整数分解 ](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_integer_factorisation.ipynb) | 科学背景：江，S.，Britt，K.A.，McCaskey，A.J.等。 量子退火用于素数分解。科学报告8，17667（2018）
 
 - [示例：酶靶标预测](www.github.com/samgr55/Enzyme-TargetPrediction_QUBO-Ising) | 科学背景：Hoang M Ngo，My T Thai，Tamer Kahveci，QuTIE：酶靶标的量子优化，生物信息学进展，2023；，vbad112
   
@@ -75,32 +75,32 @@ Dynex SDK 专业社区:
 
 以下是在Dynex平台上实施这些算法的一些示例：
 
-- [示例：在Dynex上实施量子支持向量机](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_support_vector_machine.ipynb) | 科学背景：Rounds, Max and Phil Goddard. “Optimal feature selection in credit scoring and classification using a quantum annealer.” (2017)
+- [示例：在Dynex上实施量子支持向量机](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_support_vector_machine.ipynb) | 科学背景：Rounds, Max and Phil Goddard. 《使用量子退火器进行信用评分和分类的最佳特征选择.》 (2017)
 
-- [示例：在Dynex上的量子支持向量机（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Example_SVM_pytorch.ipynb) | 科学背景：Rounds, Max and Phil Goddard. “Optimal feature selection in credit scoring and classification using a quantum annealer.” (2017)
+- [示例：在Dynex上的量子支持向量机（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Example_SVM_pytorch.ipynb) | 科学背景：Rounds, Max and Phil Goddard.《使用量子退火器进行信用评分和分类的最佳特征选择.》(2017)
 
-- [示例：在Dynex上的量子Boltzmann机器（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_neuromorphic_torch_layers%20(1).ipynb) |  科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) Training Restricted Boltzmann Machines With a D-Wave Quantum Annealer. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. “A Hybrid Quantum enabled RBM Advantage: Convolutional Autoencoders For Quantum Image Compression and Generative Learning.” Defense + Commercial Sensing (2020)
+- [示例：在Dynex上的量子Boltzmann机器（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_neuromorphic_torch_layers%20(1).ipynb) |  科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021)使用 D 波量子退火器训练受限玻尔兹曼机. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem.《混合量子启用的 RBM 优势：用于量子图像压缩和生成学习的卷积自动编码器》 Defense + Commercial Sensing (2020)
 
-- [示例：在Dynex上的量子Boltzmann机器实施（3步QUBO）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Dynex-Full-QRBM.ipynb) | 科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) Training Restricted Boltzmann Machines With a D-Wave Quantum Annealer. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. “A Hybrid Quantum enabled RBM Advantage: Convolutional Autoencoders For Quantum Image Compression and Generative Learning.” Defense + Commercial Sensing (2020)
+- [示例：在Dynex上的量子Boltzmann机器实施（3步QUBO）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Dynex-Full-QRBM.ipynb) | 科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) 使用 D 波量子退火器训练受限玻尔兹曼机. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. 《混合量子启用的 RBM 优势：用于量子图像压缩和生成学习的卷积自动编码器》 Defense + Commercial Sensing (2020)
 
-- [示例：在Dynex上的量子Boltzmann机器（协同过滤）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_collaborative_filtering_CFQIRBM.ipynb) | 科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) Training Restricted Boltzmann Machines With a D-Wave Quantum Annealer. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. “A Hybrid Quantum enabled RBM Advantage: Convolutional Autoencoders For Quantum Image Compression and Generative Learning.” Defense + Commercial Sensing (2020)
+- [示例：在Dynex上的量子Boltzmann机器（协同过滤）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_collaborative_filtering_CFQIRBM.ipynb) | 科学背景：Dixit V、Selvarajan R、Alam MA、Humble TS 和 Kais S (2021) 使用 D-Wave 量子退火器训练受限玻尔兹曼机。 正面。 物理。 9:589626。 doi：10.3389/fphy.2021.589626； 詹妮弗·斯利曼、约翰·E·多班德和米尔顿·哈勒姆。 “混合量子启用 RBM 优势：用于量子图像压缩和生成学习的卷积自动编码器。” Defense + Commercial Sensing (2020)
 
-- [示例：在Dynex上实施量子Boltzmann机器](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_quantum_boltzmann_machine_QBM.ipynb) | 科学背景：Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) Training Restricted Boltzmann Machines With a D-Wave Quantum Annealer. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. “A Hybrid Quantum enabled RBM Advantage: Convolutional Autoencoders For Quantum Image Compression and Generative Learning.” Defense + Commercial Sensing (2020)
+- [示例：在Dynex上实施量子Boltzmann机器](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_quantum_boltzmann_machine_QBM.ipynb) | 科学背景：Dixit V、Selvarajan R、Alam MA、Humble TS 和 Kais S (2021) 使用 D-Wave 量子退火器训练受限玻尔兹曼机。 正面。 物理。 9:589626。 doi：10.3389/fphy.2021.589626； 詹妮弗·斯利曼、约翰·E·多班德和米尔顿·哈勒姆。 “混合量子启用 RBM 优势：用于量子图像压缩和生成学习的卷积自动编码器。” Defense + Commercial Sensing (2020)
 
-- [示例：模式辅助的无监督学习受限制Boltzmann机器（MA-QRBM for Pytorch）](https://github.com/dynexcoin/DynexSDK/tree/main/MAQRBM) | 科学背景：模式辅助的无监督学习受限制Boltzmann机器，通信物理学卷3，文章编号：105（2020）
+- [示例：模式辅助的无监督学习受限制Boltzmann机器（MA-QRBM for Pytorch）](https://github.com/DynexCN/DynexCaseCollection/tree/main/MAQRBM) | 科学背景：模式辅助的无监督学习受限制Boltzmann机器，通信物理学卷3，文章编号：105（2020）
 
-- [示例：特征选择 - 泰坦尼克号幸存者](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_feature_selection_titanic_survivals.ipynb) | 科学背景：Xuan Vinh Nguyen, Jeffrey Chan, Simone Romano, and James Bailey. 2014. Effective global approaches for mutual information based feature selection. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14). Association for Computing Machinery, New York, NY, USA, 512–521
+- [示例：特征选择 - 泰坦尼克号幸存者](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_feature_selection_titanic_survivals.ipynb) | 科学背景：Xu Vinh Nguyen、Jeffrey Chan、Simone Romano 和 James Bailey。 2014。基于互信息的特征选择的有效全球方法。 第 20 届 ACM SIGKDD 知识发现和数据挖掘国际会议 (KDD '14) 的会议记录。 计算机协会，美国纽约州纽约市，512–521
 
-- [示例：使用Dynex scikit-learn插件进行乳腺癌预测](https://github.com/DynexCN/DynexCaseCollection/blob/main/Dynex%20Scikit-Learn%20Plugin.ipynb) | 科学背景：Bhatia, H.S., Phillipson, F. (2021). Performance Analysis of Support Vector Machine Implementations on the D-Wave Quantum Annealer. In: Paszynski, M., Kranzlmüller, D., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A.（eds）Computational Science – ICCS 2021. ICCS 2021. Lecture Notes in Computer Science(), vol 12747. Springer, Cham
+- [示例：使用Dynex scikit-learn插件进行乳腺癌预测](https://github.com/DynexCN/DynexCaseCollection/blob/main/Dynex%20Scikit-Learn%20Plugin.ipynb) | 科学背景：巴蒂亚，H.S.，菲利普森，F.（2021）。 D-Wave 量子退火器上支持向量机实现的性能分析。 见：Paszynski, M., Kranzlmüller, D., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A.（编）计算科学 – ICCS 2021. ICCS 2021. 计算机科学讲义(), vol 12747. Springer, Cham
 
 ## Dynex神经形态Torch层
 
 Dynex神经形态Torch层可以用于任何神经网络模型。欢迎使用混合模型、神经形态、迁移学习和联邦学习与PyTorch。
 [PyTorch](https://pytorch.org/)
  
-- [示例：在Dynex上的量子Boltzmann机器（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_neuromorphic_torch_layers%20(1).ipynb) | Scientific background: Dixit V, Selvarajan R, Alam MA, Humble TS and Kais S (2021) Training Restricted Boltzmann Machines With a D-Wave Quantum Annealer. Front. Phys. 9:589626. doi: 10.3389/fphy.2021.589626; Sleeman, Jennifer, John E. Dorband and Milton Halem. “A Hybrid Quantum enabled RBM Advantage: Convolutional Autoencoders For Quantum Image Compression and Generative Learning.” Defense + Commercial Sensing (2020)
+- [示例：在Dynex上的量子Boltzmann机器（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_neuromorphic_torch_layers%20(1).ipynb) | 科学背景: Dixit V、Selvarajan R、Alam MA、Humble TS 和 Kais S (2021) 使用 D-Wave 量子退火器训练受限玻尔兹曼机。 正面。 物理。 9:589626。 doi：10.3389/fphy.2021.589626； 詹妮弗·斯利曼、约翰·E·多班德和米尔顿·哈勒姆。 “混合量子启用 RBM 优势：用于量子图像压缩和生成学习的卷积自动编码器。” Defense + Commercial Sensing (2020)
 
-- [示例：在Dynex上的量子支持向量机（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Example_SVM_pytorch.ipynb) | Scientific background: Rounds, Max and Phil Goddard. “Optimal feature selection in credit scoring and classification using a quantum annealer.” (2017)
+- [示例：在Dynex上的量子支持向量机（PyTorch）](https://github.com/DynexCN/DynexCaseCollection/blob/main/Example_SVM_pytorch.ipynb) | 科学背景: 朗斯，麦克斯·戈达德和菲尔·戈达德。 “使用量子退火器进行信用评分和分类的最佳特征选择。” (2017)
 
 ## Dynex Qiskit包
 
@@ -140,14 +140,14 @@ print(circuit)
 
 此包提供了一个用于使用Dynex神经形态计算平台进行特征选择的scikit-learn转换器。它专为与scikit-learn集成而构建，这是一种行业标准的、最先进的Python机器学习库。
 
- [Dynex scikit-learn 插件](https://github.com/dynexcoin/DynexSDK/tree/main/dynex_scikit_plugin)使在ML工作流程的特征选择方面更容易使用Dynex平台。特征选择是机器学习的关键构建块，它是确定一小组最具代表性特征以改善模型训练和性能的问题。有了这个新的插件，ML开发人员不需要成为优化或混合求解方面的专家，就能获得商业和技术上的双重好处。创建特征选择应用程序的开发人员可以构建与scikit-learn集成的管道，然后更轻松高效地将Dynex平台嵌入到这个工作流程中。
+ [Dynex scikit-learn 插件](https://github.com/DynexCN/DynexCaseCollection/tree/main/dynex_scikit_plugin)使在ML工作流程的特征选择方面更容易使用Dynex平台。特征选择是机器学习的关键构建块，它是确定一小组最具代表性特征以改善模型训练和性能的问题。有了这个新的插件，ML开发人员不需要成为优化或混合求解方面的专家，就能获得商业和技术上的双重好处。创建特征选择应用程序的开发人员可以构建与scikit-learn集成的管道，然后更轻松高效地将Dynex平台嵌入到这个工作流程中。
 
 
 ## Dynex QBoost Implementation
 
 D-Wave量子计算机作为一个接受任何问题的离散优化引擎已经广泛研究，该问题被制定为二次不受约束的二进制优化（QUBO）。2008年，Google和D-Wave发表了一篇论文, [Training a Binary Classifier with the Quantum Adiabatic Algorithm](https://arxiv.org/pdf/0811.0416.pdf),介绍了Qboost集成方法是如何使二进制分类适于量子计算的：该问题被制定为一组弱分类器的阈值线性叠加，D-Wave量子计算机用于在学习过程中优化权重，力求最小化训练错误和弱分类器数量。
 
-[Dynex QBoost Implementation](https://github.com/dynexcoin/DynexSDK/tree/main/dynex_qboost) 提供了一个QBoost算法插件，可用于使用Dynex神经形态平台。
+[Dynex QBoost Implementation](https://github.com/DynexCN/DynexCaseCollection/tree/main/dynex_qboost) 提供了一个QBoost算法插件，可用于使用Dynex神经形态平台。
 
 ## DIMOD：QUBO/ISING采样器的共享API
 Dimod是一种共享的采样器API。它提供了二次模型的类，例如包含Dynex神经形态平台或D-Wave系统采样器使用的Ising和QUBO模型的二进制二次模型（BQM）类，以及高阶（非二次）模型、采样器和复合采样器的参考示例，以及构建新采样器和复合采样器的抽象基类。
