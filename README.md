@@ -31,7 +31,7 @@ Dynex SDK 专业社区:
 为了让新手快速熟悉如何在Dynex平台上进行计算，我们准备了一些Python Jupyter笔记本。以下是一些初学者指南，演示了如何使用Dynex SDK。
 
 - [示例：使用Python在Dynex平台上进行计算 - 二进制二次优化问题](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_bqm.ipynb)
-- [使用Python在Dynex平台上进行计算 - 二进制二次优化问题 K4完全图](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_bqm_k4_complete_graph.ipynb)
+- [示例：使用Python在Dynex平台上进行计算 - 二进制二次优化问题 K4完全图](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_bqm_k4_complete_graph.ipynb)
 - [示例：使用Python在Dynex平台上进行计算 - 逻辑门](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_logic_gates.ipynb)
 - [示例：使用Python在Dynex平台上进行计算 - QUBO](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_QUBO.ipynb)
 - [示例：使用Python在Dynex平台上进行计算 - 反交叉问题](https://github.com/DynexCN/DynexCaseCollection/blob/main/beginners_guide_example_anti_crossing_clique.ipynb)
