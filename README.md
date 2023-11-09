@@ -110,11 +110,13 @@ Dynex神经形态Torch层可以用于任何神经网络模型。欢迎使用混�
 from dynexsdk.qiskit import QuantumRegister, ClassicalRegister
 from dynexsdk.qiskit import QuantumCircuit, execute
 
-# 输入寄存器：a = qi[0]；b = qi[1]；ci = qi[2]
+# 输入寄存器：
+a = qi[0]；b = qi[1]；ci = qi[2]
 qi = QuantumRegister(3)
 ci = ClassicalRegister(3)
 
-# 输出寄存器：s = qo[0]；co = qo[1]
+# 输出寄存器：
+s = qo[0]；co = qo[1]
 qo = QuantumRegister(2)
 co = ClassicalRegister(2)
 circuit = QuantumCircuit(qi, qo, ci, co)
