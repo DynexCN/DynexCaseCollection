@@ -2,6 +2,31 @@
 DynexSDK（Dynex软件开发工具包）
 Dynex是基于DynexSolve芯片算法的世界上第一个神经形态超级计算区块链，采用了“有用工作证明”（PoUW）方法来解决现实世界的问题。Dynex SDK 用于与Dynex平台进行交互和计算。所有示例都需要使用Python的DynexSDK以及有效的API密钥。我们的存储库会持续更新，请定期查看以获取更新。
 
+## 读物
+-[中文：亚马逊读物](https://amazon.com/dp/B0CSBPR9WL)
+-[English:](https://www.amazon.com/dp/B0CRQQPBB5)
+
+## 中文版学术性文章
+-[HUBO和QUBO以及质因数分解](https://zhuanlan.zhihu.com/p/675948356)
+-[使用Dynex云计算平台解决Harrow-Hassidim-Lloyd问题的神经形态计算框架](https://zhuanlan.zhihu.com/p/675947915)
+-[在Dynex区块链网络上训练LLM可行性研究报告](https://zhuanlan.zhihu.com/p/672955014)
+-[因数（式）分解发展史](https://zhuanlan.zhihu.com/p/682134864)
+-[]()
+
+##定价
+使用DyneX技术在本地计算机（MainNet=false）上进行计算是免费的。它允许在使用Dynex神经形态计算云之前对本地机器上的计算问题进行采样，主要用于代码的原型设计和测试。主网上的计算在DNX中根据使用情况收费。用户可以在[Dynex市场](https://live.dynexcoin.org/auth/register?affiliate_id=AJT7YAGR)上查询他的余额余额。在DyneX上计算的成本是基于供应和需求的，而工资较高的计算工作是优先考虑的。值“ Current Avg Block Fee ”显示计算的当前平均价格。它定义了每2分钟生产一次的每个区块的支付金额。根据芯片的数量(num_reads)、持续时间 (annealing_time)、计算问题的大小和复杂性，您的计算只会调用整个网络的一小部分。计算的价格被计算为基本“块费用”的一部分，并在计算过程中显示在Python界面以及DyneX市场的“使用”部分。
+Dynex SDK提供了以下方法来估算计算作业的实际成本，然后在主作业上对其进行采样：使用Dynex技术在本地计算机上进行计算（MainNet=false）是免费的。它允许在使用DyneX神经形态计算云之前对本地机器上的计算问题进行采样，主要用于代码的原型设计和测试。主网上的计算在DNX中根据使用情况收费。用户可以在Dynex市场上保持他们的余额。在DyneX上计算的成本是基于供应和需求的，而工资较高的计算工作是由工人优先考虑的。值“ Current Avg Block Fee ”显示计算的当前平均价格。它定义了每2分钟生产一次的每个区块的支付金额。这取决于芯片的数量（_读取的数量）、持续时间（_退火时间）、计算的大小和复杂性。
+```
+model = dynex.BQM(bqm); 
+dynex.estimate_costs(model, num_reads=10000);
+
+[DYNEX] AVERAGE BLOCK FEE: 282.59 DNX
+[DYNEX] SUBMITTING COMPUTE FILE FOR COST ESTIMATION...
+[DYNEX] COST OF COMPUTE: 0.537993485 DNX PER BLOCK
+[DYNEX] COST OF COMPUTE: 0.268996742 DNX PER MINUTE
+
+```
+
 ## 入门指导
 
 使用以下命令下载并安装Dynex SDK：
@@ -19,6 +44,7 @@ Dynex SDK文档:
 Dynex SDK 专业社区:
 - [Dynex Slack工作区](https://join.slack.com/t/dynex-workspace/shared_invite/zt-22eb1n4mo-aXS5zsUBoPs613Dofi8Q4A)
 - [Dynex 中文开发社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CKneJaNvrwqvamLjIV0LYkUm4njcTvzq&authKey=0IRFp1FN%2BVrpixA2sOMwEPqVhd5geP6P7qRxhvpCylHbWutm6hSKYBqlznfBybh5&noverify=0&group_code=705867412)
+
 
 ## 指南
 - [案例：在Dynex神经形态平台上进行计算：图像分类](https://github.com/DynexCN/DynexCaseCollection/blob/main/Medium_Image_Classification.ipynb)
@@ -42,6 +68,7 @@ Dynex SDK 专业社区:
 ## 高级示例
 
 以下是一些高级的代码示例和笔记本，可用于在Dynex神经形态计算平台上进行计算：
+- [示例：流体动力学量子计算（CFD](https://github.com/DynexCN/QCFD) | 科学背景：流体动力学量子计算算法介绍，Sachin S.Bharadwaj和Katepalli R.Sreenivasan，机械与航空航天工程系，STO-教育笔记论文，2022
 
 - [示例：烟草花叶病毒RNA折叠](https://github.com/DynexCN/DynexCaseCollection/blob/main/example_rna_folding.ipynb) | 科学背景：Fox DM，MacDermaid CM，Schreij AMA，Zwierzyna M，Walker RC。使用量子计算机进行RNA折叠，PLoS Comput Biol。2022年4月11日；18(4)：e1010032。doi：10.1371/journal.pcbi.1010032。PMID：35404931；PMCID：PMC9022793
 
