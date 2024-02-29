@@ -3,15 +3,15 @@ DynexSDK（Dynex软件开发工具包）
 Dynex是基于DynexSolve芯片算法的世界上第一个神经形态超级计算区块链，采用了“有用工作证明”（PoUW）方法来解决现实世界的问题。Dynex SDK 用于与Dynex平台进行交互和计算。所有示例都需要使用Python的DynexSDK以及有效的API密钥。我们的存储库会持续更新，请定期查看以获取更新。
 
 ## 读物
--[中文：亚马逊读物](https://amazon.com/dp/B0CSBPR9WL)
--[English:](https://www.amazon.com/dp/B0CRQQPBB5)
+- [中文：亚马逊读物](https://amazon.com/dp/B0CSBPR9WL)
+- [English:](https://www.amazon.com/dp/B0CRQQPBB5)
 
 ## 中文版学术性文章
--[HUBO和QUBO以及质因数分解](https://zhuanlan.zhihu.com/p/675948356)
--[使用Dynex云计算平台解决Harrow-Hassidim-Lloyd问题的神经形态计算框架](https://zhuanlan.zhihu.com/p/675947915)
--[在Dynex区块链网络上训练LLM可行性研究报告](https://zhuanlan.zhihu.com/p/672955014)
--[因数（式）分解发展史](https://zhuanlan.zhihu.com/p/682134864)
--[]()
+- [HUBO和QUBO以及质因数分解](https://zhuanlan.zhihu.com/p/675948356)
+- [使用Dynex云计算平台解决Harrow-Hassidim-Lloyd问题的神经形态计算框架](https://zhuanlan.zhihu.com/p/675947915)
+- [在Dynex区块链网络上训练LLM可行性研究报告](https://zhuanlan.zhihu.com/p/672955014)
+- [因数（式）分解发展史](https://zhuanlan.zhihu.com/p/682134864)
+
 
 ##定价
 使用DyneX技术在本地计算机（MainNet=false）上进行计算是免费的。它允许在使用Dynex神经形态计算云之前对本地机器上的计算问题进行采样，主要用于代码的原型设计和测试。主网上的计算在DNX中根据使用情况收费。用户可以在[Dynex市场](https://live.dynexcoin.org/auth/register?affiliate_id=AJT7YAGR)上查询他的余额余额。在DyneX上计算的成本是基于供应和需求的，而工资较高的计算工作是优先考虑的。值“ Current Avg Block Fee ”显示计算的当前平均价格。它定义了每2分钟生产一次的每个区块的支付金额。根据芯片的数量(num_reads)、持续时间 (annealing_time)、计算问题的大小和复杂性，您的计算只会调用整个网络的一小部分。计算的价格被计算为基本“块费用”的一部分，并在计算过程中显示在Python界面以及DyneX市场的“使用”部分。
