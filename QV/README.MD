@@ -1,6 +1,6 @@
 ## Dynex 上的量子体积测量
 量子体积（QV）是一种旨在量化量子计算机性能的指标。它考虑了几个因素，包括量子位的数量、门保真度、连接性、测量误差以及成功执行量子电路的能力。 QV 指标试图捕获量子处理器的数量（量子位数量）和质量（保真度和错误率）。
-- [Jupyter Notebook: Dynex量子体积](https://github.com/dynexcoin/DynexSDK/blob/main/QV/QuantumVolume.ipynb)
+- [Jupyter Notebook: Dynex量子体积](https://github.com/DynexCN/blob/main/QV/QuantumVolume.ipynb)
 
 
 参考资料: 
