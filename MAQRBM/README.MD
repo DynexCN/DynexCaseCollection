@@ -1,5 +1,4 @@
-# Quantum Mode-assisted unsupervised learning of restricted Boltzmann machines
-Restricted Boltzmann machines (RBMs) are a powerful class of generative models, but their training requires computing a gradient that, unlike supervised backpropagation on typical loss functions, is notoriously difficult even to approximate. Here, we show that properly combining standard gradient updates with an off-gradient direction, constructed from samples of the RBM ground state (mode), improves training dramatically over traditional gradient methods. This approach, which we call ‘mode-assisted training’, promotes faster training and stability, in addition to lower converged relative entropy (KL divergence). We demonstrate its efficacy on synthetic datasets where we can compute KL divergences exactly, as well as on a larger machine learning standard (MNIST). The proposed mode-assisted training can be applied in conjunction with any given gradient method, and is easily extended to more general energy- based neural network structures such as deep, convolutional and unrestricted Boltzmann machines.
-
-### References
+# 受限玻尔兹曼机的量子模式辅助无监督学习
+受限玻尔兹曼机（RBM）是一类强大的生成模型，但它们的训练需要计算梯度，与典型损失函数上的监督反向传播不同，众所周知，即使近似也很难。在这里，我们表明，将标准梯度更新与由 RBM 基态（模式）样本构建的偏离梯度方向正确结合，可以比传统梯度方法显着改善训练。这种方法，我们称之为“模式辅助训练”，除了降低收敛相对熵（KL 散度）之外，还可以促进更快的训练和稳定性。我们在可以精确计算 KL 散度的合成数据集以及更大的机器学习标准 (MNIST) 上展示了它的功效。所提出的模式辅助训练可以与任何给定的梯度方法结合应用，并且很容易扩展到更通用的基于能量的神经网络结构，例如深度、卷积和无限制的玻尔兹曼机。
+### 参考资料
 [Mode-assisted unsupervised learning of restricted Boltzmann machines](https://arxiv.org/pdf/2001.05559.pdf), Communications Physics volume 3, Article number:105 (2020)
